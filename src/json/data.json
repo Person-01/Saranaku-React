@@ -1,0 +1,753 @@
+{
+	"data": [{
+                "stockItemResponses": [
+                    {
+                        "stockItemId": 1,
+                        "stockItemTitle": "Cat Vinilex 10L",
+                        "sellPrice": 175000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 300,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 2,
+                        "stockItemTitle": "Semen Holcim 50KG",
+                        "sellPrice": 64500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "sak"
+                        }
+                    },
+                    {
+                        "stockItemId": 3,
+                        "stockItemTitle": "Semen Tiga Roda 40KG",
+                        "sellPrice": 52500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "sak"
+                        }
+                    },
+                    {
+                        "stockItemId": 4,
+                        "stockItemTitle": "Baut 10",
+                        "sellPrice": 125,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 20000,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 5,
+                        "stockItemTitle": "Lem Pipa Isarplas",
+                        "sellPrice": 9000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 1500,
+                            "metricType": "kotak"
+                        }
+                    },
+                    {
+                        "stockItemId": 6,
+                        "stockItemTitle": "Lem Korea",
+                        "sellPrice": 12000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 1500,
+                            "metricType": "kotak"
+                        }
+                    },
+                    {
+                        "stockItemId": 7,
+                        "stockItemTitle": "Ceker Ayam",
+                        "sellPrice": 10000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 20,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 8,
+                        "stockItemTitle": "Pylox merk Pylox Hitam Doop",
+                        "sellPrice": 30000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 9,
+                        "stockItemTitle": "Pylox merk Pylox Hitam",
+                        "sellPrice": 30000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 10,
+                        "stockItemTitle": "Pylox merk Pylox White",
+                        "sellPrice": 30000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 11,
+                        "stockItemTitle": "Engsel Pintu",
+                        "sellPrice": 7200,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 300,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 12,
+                        "stockItemTitle": "Gembok 60 mm",
+                        "sellPrice": 24000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 13,
+                        "stockItemTitle": "Gembok 40 mm",
+                        "sellPrice": 16000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 14,
+                        "stockItemTitle": "Handle Pintu Akrilik 25",
+                        "sellPrice": 45000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 15,
+                        "stockItemTitle": "Tang Kombinasi Serbaguna",
+                        "sellPrice": 48000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 150,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 16,
+                        "stockItemTitle": "Skrap PVC \"S\"",
+                        "sellPrice": 1000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 150,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 17,
+                        "stockItemTitle": "Skrap PVC \"L\"",
+                        "sellPrice": 1500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 18,
+                        "stockItemTitle": "Pisau Dempul 1 1/2\"",
+                        "sellPrice": 2500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 19,
+                        "stockItemTitle": "Tatah Kayu 1/4\"",
+                        "sellPrice": 8500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 20,
+                        "stockItemTitle": "Palu Tukang 100 gr",
+                        "sellPrice": 13000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 21,
+                        "stockItemTitle": "Palu Tukang 200 gr",
+                        "sellPrice": 25000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 300,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 22,
+                        "stockItemTitle": "Palu Tukang 300 gr",
+                        "sellPrice": 38000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 23,
+                        "stockItemTitle": "Kuas Reyner 1\"",
+                        "sellPrice": 1700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 24,
+                        "stockItemTitle": "Kuas Reyner 1 1/2\"",
+                        "sellPrice": 2300,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 25,
+                        "stockItemTitle": "Kuas Koala 4\"",
+                        "sellPrice": 4800,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 1500,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 26,
+                        "stockItemTitle": "Klem Kaca \"L\"",
+                        "sellPrice": 550,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 1500,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 27,
+                        "stockItemTitle": "Klem Kaca \"S\"",
+                        "sellPrice": 550,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 1000,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 28,
+                        "stockItemTitle": "Pemotong Keramik KENJI",
+                        "sellPrice": 75000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 29,
+                        "stockItemTitle": "Pemotong Keramik WALKER",
+                        "sellPrice": 80000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 30,
+                        "stockItemTitle": "Meteran 30 m",
+                        "sellPrice": 30700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 31,
+                        "stockItemTitle": "Penggaris Siku Tukang",
+                        "sellPrice": 8750,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 300,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 32,
+                        "stockItemTitle": "Karet Paku Payung",
+                        "sellPrice": 3700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 33,
+                        "stockItemTitle": "Keran Air Aluminium 1/2\"",
+                        "sellPrice": 9550,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 34,
+                        "stockItemTitle": "Keran Air Aluminium 3/4\"",
+                        "sellPrice": 10450,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 35,
+                        "stockItemTitle": "Keran Wastafel",
+                        "sellPrice": 48000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 150,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 36,
+                        "stockItemTitle": "Sambungan Selang L-25",
+                        "sellPrice": 1650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 150,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 37,
+                        "stockItemTitle": "Kloset Jongkok BEST Biru",
+                        "sellPrice": 93000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 38,
+                        "stockItemTitle": "Pintu PVC Handle Kuning",
+                        "sellPrice": 178000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 39,
+                        "stockItemTitle": "Cylinder Kunci Kecil \"PLATO\"",
+                        "sellPrice": 11200,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 40,
+                        "stockItemTitle": "Cylinder Kunci \"HOME\"",
+                        "sellPrice": 30000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 41,
+                        "stockItemTitle": "Triplek Pintu Biasa",
+                        "sellPrice": 36000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 300,
+                            "metricType": "lembar"
+                        }
+                    },
+                    {
+                        "stockItemId": 42,
+                        "stockItemTitle": "Triplek Melamin Putih",
+                        "sellPrice": 65000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "lembar"
+                        }
+                    },
+                    {
+                        "stockItemId": 43,
+                        "stockItemTitle": "Triplex 3mm MR",
+                        "sellPrice": 59000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "lembar"
+                        }
+                    },
+                    {
+                        "stockItemId": 44,
+                        "stockItemTitle": "Triplex 12mm",
+                        "sellPrice": 145000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 2000,
+                            "metricType": "lembar"
+                        }
+                    },
+                    {
+                        "stockItemId": 45,
+                        "stockItemTitle": "Lem Pipa Isarplas",
+                        "sellPrice": 9000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 1500,
+                            "metricType": "kotak"
+                        }
+                    },
+                    {
+                        "stockItemId": 46,
+                        "stockItemTitle": "Dempul Kayu (Flying Horse)",
+                        "sellPrice": 12000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 1500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 47,
+                        "stockItemTitle": "Plamir Kayu (Flying Horse)",
+                        "sellPrice": 10000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 20,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 48,
+                        "stockItemTitle": "Cat Tembok Eksterior ALTEX NT D.White",
+                        "sellPrice": 89500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 49,
+                        "stockItemTitle": "Cat Tembok Eksterior ALTEX NT 431",
+                        "sellPrice": 89500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 50,
+                        "stockItemTitle": "Cat Tembok Eksterior ALTEX NT 443",
+                        "sellPrice": 89500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 51,
+                        "stockItemTitle": "Cat Tembok Eksterior ALTEX NT S.White",
+                        "sellPrice": 89500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 300,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 52,
+                        "stockItemTitle": "Cat Tembok Eksterior ALTEX NT Bril. White",
+                        "sellPrice": 89500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 53,
+                        "stockItemTitle": "Dempul Kayu (ALTEX)",
+                        "sellPrice": 22500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 200,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 54,
+                        "stockItemTitle": "Plamir Kayu (ALTEX)",
+                        "sellPrice": 22500,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 20000,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 55,
+                        "stockItemTitle": "Atlantik Thinner \"A\" (ALTEX) 500cc",
+                        "sellPrice": 13665,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 150,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 56,
+                        "stockItemTitle": "Atlantik Thinner \"A\" (ALTEX) 1 ltr",
+                        "sellPrice": 23765,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 1500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 57,
+                        "stockItemTitle": "Semen Gresik 50KG",
+                        "sellPrice": 57000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 20,
+                            "metricType": "sak"
+                        }
+                    },
+                    {
+                        "stockItemId": 58,
+                        "stockItemTitle": "Besi 6 ml",
+                        "sellPrice": 16000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "batang"
+                        }
+                    },
+                    {
+                        "stockItemId": 59,
+                        "stockItemTitle": "Besi 8 ml",
+                        "sellPrice": 38000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "batang"
+                        }
+                    },
+                    {
+                        "stockItemId": 60,
+                        "stockItemTitle": "Besi 10 ml",
+                        "sellPrice": 60000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 100,
+                            "metricType": "batang"
+                        }
+                    },
+                    {
+                        "stockItemId": 61,
+                        "stockItemTitle": "Besi 12 ml",
+                        "sellPrice": 80000,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 300,
+                            "metricType": "batang"
+                        }
+                    },
+                    {
+                        "stockItemId": 62,
+                        "stockItemTitle": "BEE BRAND JUNIOR Merah",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 63,
+                        "stockItemTitle": "BEE BRAND JUNIOR Kuning",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 64,
+                        "stockItemTitle": "BEE BRAND JUNIOR Hijau",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 65,
+                        "stockItemTitle": "BEE BRAND JUNIOR Biru",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 66,
+                        "stockItemTitle": "BEE BRAND JUNIOR Ungu",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 67,
+                        "stockItemTitle": "BEE BRAND JUNIOR Orange",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 68,
+                        "stockItemTitle": "BEE BRAND JUNIOR Putih",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 69,
+                        "stockItemTitle": "BEE BRAND JUNIOR Pink",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 70,
+                        "stockItemTitle": "BEE BRAND JUNIOR Hitam",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 71,
+                        "stockItemTitle": "BEE BRAND JUNIOR Coklat",
+                        "sellPrice": 34650,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 72,
+                        "stockItemTitle": "ALTEX Merah",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 73,
+                        "stockItemTitle": "ALTEX Kuning",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 74,
+                        "stockItemTitle": "ALTEX Hijau",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 75,
+                        "stockItemTitle": "ALTEX Biru",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 76,
+                        "stockItemTitle": "ALTEX Ungu",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 77,
+                        "stockItemTitle": "ALTEX Orange",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 78,
+                        "stockItemTitle": "ALTEX Putih",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 79,
+                        "stockItemTitle": "ALTEX Pink",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 80,
+                        "stockItemTitle": "ALTEX Hitam",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 81,
+                        "stockItemTitle": "ALTEX Coklat",
+                        "sellPrice": 20700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 500,
+                            "metricType": "kaleng"
+                        }
+                    },
+                    {
+                        "stockItemId": 82,
+                        "stockItemTitle": "Batu Bata Welahan",
+                        "sellPrice": 700,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 5000,
+                            "metricType": "buah"
+                        }
+                    },
+                    {
+                        "stockItemId": 83,
+                        "stockItemTitle": "Batu Bata Garon",
+                        "sellPrice": 730,
+                        "stockItemCategoryResponse": {
+                            "currentQty": 6000,
+                            "metricType": "buah"
+                        }
+                    }
+                ]
+            }]
+}
