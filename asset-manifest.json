@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Saranaku-React/static/css/main.77788f85.css",
+    "main.js": "/Saranaku-React/static/js/main.1d206d47.js",
+    "static/js/787.d21cef64.chunk.js": "/Saranaku-React/static/js/787.d21cef64.chunk.js",
+    "index.html": "/Saranaku-React/index.html",
+    "main.77788f85.css.map": "/Saranaku-React/static/css/main.77788f85.css.map",
+    "main.1d206d47.js.map": "/Saranaku-React/static/js/main.1d206d47.js.map",
+    "787.d21cef64.chunk.js.map": "/Saranaku-React/static/js/787.d21cef64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77788f85.css",
+    "static/js/main.1d206d47.js"
+  ]
+}
