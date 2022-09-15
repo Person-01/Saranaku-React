@@ -1,0 +1,124 @@
+.logo{
+    background-color:rgb(9, 129, 214);
+}
+
+.date{
+    height: 40px;
+    background-color:rgb(4, 165, 180);
+    padding-top: 5px;
+    margin-bottom: 10px;
+}
+
+.cart_container{
+    background-color: white;
+}
+
+.features .btn-primary{
+    background-color: #2776ff !important;
+}
+.btn-primary, .btn-primary:hover{
+    background-color: #1c6df9  !important;
+}
+.features .btn-warning{
+    background-color: rgb(236, 181, 0) !important;
+}
+.btn-primary, .btn-warning:hover{
+    background-color: rgb(210, 163, 6)  !important;
+}
+.features .btn-info{
+    background-color: #00d2a1 !important;
+}
+.btn-primary, .btn-info:hover{
+    background-color: #0aba91  !important;
+}
+@media only screen and (max-width: 1080px) {
+    .features  button{
+        width: 96vw;
+    }
+}
+.table table, th{
+    text-align: center
+}
+.modal_background{
+    position: absolute;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    opacity: 0.5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add_modal_background{
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+}
+.add_modal_container{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    background-color: white; 
+    width: 80vw;
+    height: 80vh;
+}
+.add_modal_container{
+    overflow: auto;
+}
+.add_modal_container table, td{
+    text-align: center
+}
+.add_modal_container input[type=text]{
+    width: 100%;
+}
+.close_modal_background{
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+}
+.close_modal_container{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    background-color: white; 
+    width: 80vw;
+    height: 200px;
+}
+.end_modal_background{
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+}
+.end_modal_container{
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white; 
+    width: 80vw;
+    height: 75vh;
+}
+.select-tipeTransaksi select{
+    color: red;
+}
+.consumerDetail_validation{
+    background-color: #fffbeb;
+    padding-left: 10px;
+}
+.consumerDetail_validation h5{
+    color: darkred;
+    font-weight: 600;
+}
+.consumerDetail_validation ul li{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    color: darkred;
+}
+.consumerDetail_validation ul{
+    padding: 0;
+    list-style-type: none;
+}
