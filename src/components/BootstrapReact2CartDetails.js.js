@@ -37,9 +37,9 @@ class BootstrapReact2CartDetail extends Component{
                                     <td>Rp. {filteredItem.sellPrice*filteredItem.quantity}</td>
                                     <td>
                                     <div className="btn-group" role="group" aria-label="Basic example">
-                                        <button type="button" className="btn btn-success" onClick={()=>this.props.addItem(filteredItem)}>Add</button>
-                                        <button type="button" className="btn btn-warning" onClick={()=>this.props.decreaseItem({filteredItem})}>Decrease</button>
-                                        <button type="button" className="btn btn-danger" onClick={()=>this.props.deleteItem(filteredItem)}>Delete</button>
+                                        <button type="button" className="btn btn-success" onClick={()=>this.props.addItem(filteredItem)}>Tambah</button>
+                                        <button type="button" className="btn btn-warning" onClick={()=>this.props.decreaseItem({filteredItem})}>Kurang</button>
+                                        <button type="button" className="btn btn-danger" onClick={()=>this.props.deleteItem(filteredItem)}>Hapus</button>
                                     </div>
                                     </td>
                                 </tr>
