@@ -20,16 +20,15 @@ class BootstrapReact2AddModal extends Component{
         this.inputRef.current.focus();
     }
     inputHandler(e){
-        e.preventDefault();
         this.setState({
             searchInput: e.target.value
         })
     }
     render(){
-        let temp = this.state.products;
+        let temp = Data.data[0].stockItemResponses;
         if(this.state.searchInput.length>0){
             //iterate through items from json
-                temp.item =  temp.item.filter((i) => {
+                temp =  temp.filter((i) => {
                     //turn item names and search input text to lowercase letters
                     //if item names contain input letters then return matched items
                     return i.stockItemTitle.toLowerCase().match(this.state.searchInput.toLowerCase());
@@ -54,7 +53,7 @@ class BootstrapReact2AddModal extends Component{
                             </thead>
                             <tbody>
                         {
-                            temp.item.map(data => {
+                            temp.map(data => {
                             return (
                                 <tr  key={data.stockItemId}>
                                     <td>
