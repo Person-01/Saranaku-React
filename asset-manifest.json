@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Saranaku-React/static/css/main.34f9d890.css",
-    "main.js": "/Saranaku-React/static/js/main.f8245b68.js",
+    "main.js": "/Saranaku-React/static/js/main.53688b83.js",
     "static/js/787.9c5110dc.chunk.js": "/Saranaku-React/static/js/787.9c5110dc.chunk.js",
     "static/media/hand-shake.png": "/Saranaku-React/static/media/hand-shake.65bcad809362961ab098.png",
     "static/media/key.png": "/Saranaku-React/static/media/key.9082bdd67b064c1a570b.png",
     "static/media/add-to-cart.png": "/Saranaku-React/static/media/add-to-cart.191a5474d0735080db10.png",
     "index.html": "/Saranaku-React/index.html",
     "main.34f9d890.css.map": "/Saranaku-React/static/css/main.34f9d890.css.map",
-    "main.f8245b68.js.map": "/Saranaku-React/static/js/main.f8245b68.js.map",
+    "main.53688b83.js.map": "/Saranaku-React/static/js/main.53688b83.js.map",
     "787.9c5110dc.chunk.js.map": "/Saranaku-React/static/js/787.9c5110dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34f9d890.css",
-    "static/js/main.f8245b68.js"
+    "static/js/main.53688b83.js"
   ]
 }
