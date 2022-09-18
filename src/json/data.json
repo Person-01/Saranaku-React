@@ -39,7 +39,7 @@
                     },
                     {
                         "stockItemId": 5,
-                        "stockItemTitle": "Lem Pipa Isarplas",
+                        "stockItemTitle": "Lem Pipa Isarplas I",
                         "sellPrice": 9000,
                         "stockItemCategoryResponse": {
                             "currentQty": 1500,
@@ -399,7 +399,7 @@
                     },
                     {
                         "stockItemId": 45,
-                        "stockItemTitle": "Lem Pipa Isarplas",
+                        "stockItemTitle": "Lem Pipa Isarplas II",
                         "sellPrice": 9000,
                         "stockItemCategoryResponse": {
                             "currentQty": 1500,
