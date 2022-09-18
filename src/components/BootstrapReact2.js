@@ -80,6 +80,7 @@ class BootstrapReact2 extends Component{
     }
     addItem(props){
         let index = 0;
+        console.log(`increase: ${props.stockItemTitle}`)
         for(let i = 0; i<=this.state.cartDetail.length-1; i++){
             if(this.state.cartDetail[i].stockItemTitle === props.stockItemTitle){
                 index = i;
@@ -94,12 +95,13 @@ class BootstrapReact2 extends Component{
     }
     decreaseItem(props){
         let index = 0;
+        console.log(`decrease ${props.stockItemTitle}`)
         for(let i = 0; i<=this.state.cartDetail.length-1; i++){
             if(this.state.cartDetail[i].stockItemTitle === props.stockItemTitle){
                 index = i;
-                console.log(`index-decreased: ${this.state.cartDetail[i].stockItemTitle}`)
             }
         }
+        console.log(`index-decreased: ${this.state.cartDetail[index].stockItemTitle}`)
         let temp = [...this.state.cartDetail];
         temp[index].quantity = temp[index].quantity-1;
         this.setState({
