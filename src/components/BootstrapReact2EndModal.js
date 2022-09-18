@@ -59,7 +59,7 @@ class BootstrapReact2CloseModal extends Component{
     render(){
         let total = 0;
         (this.props.cartItems.filter((item) => item.quantity > 0).map( (filteredItem, index) => (
-            total = total + (filteredItem.quantity*filteredItem.sellPrice)
+            total = total+(filteredItem.quantity*filteredItem.sellPrice)
         )))
         return ReactDOM.createPortal(
             <div>
@@ -90,7 +90,7 @@ class BootstrapReact2CloseModal extends Component{
                                             <td>{filteredItem.stockItemTitle}</td>
                                             <td>{filteredItem.sellPrice}</td>
                                             <td>{filteredItem.quantity}</td>
-                                            <td>Rp. {filteredItem.sellPrice*filteredItem.quantity}</td>
+                                            <td>Rp. {(filteredItem.sellPrice*filteredItem.quantity).toString().replace(/\B(?=(\d{3})+(?!\d))/g, '.')}</td>
                                         </tr>
                                     ))) : (
                                         <tr>
@@ -110,7 +110,7 @@ class BootstrapReact2CloseModal extends Component{
                                                 <h5>Total Harga</h5>
                                             </td>
                                             <td colSpan="3" className="text-end">
-                                                <h5 className="position-relative" style={{marginRight: "40px"}}>Rp. {total}</h5>
+                                                <h5 className="position-relative" style={{marginRight: "40px"}}>Rp. {(total).toString().replace(/\B(?=(\d{3})+(?!\d))/g, '.')}</h5>
                                             </td>
                                         </tr>
                                     </tbody>

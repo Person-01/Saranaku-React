@@ -17,9 +17,6 @@ class DisplayDate extends Component{
             let hour = dateObj.toLocaleString("id-ID", {hour: '2-digit', hour12: false})
             let minute = dateObj.toLocaleString("id-ID", {minute: '2-digit'})
             let second = dateObj.toLocaleString("id-ID", {second: "2-digit"})
-            {
-                //{dateObj.getHours()}: {dateObj.getMinutes()}:({' '}{dateObj.getSeconds()})
-            }
             this.setState({
                 currentTime: time+" "+hour+":"+minute+":"+second
             })

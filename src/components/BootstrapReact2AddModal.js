@@ -60,7 +60,7 @@ class BootstrapReact2AddModal extends Component{
                                         {data.stockItemTitle}
                                     </td>
                                     <td>
-                                        Rp. {data.sellPrice}
+                                        Rp. {(data.sellPrice).toString().replace(/\B(?=(\d{3})+(?!\d))/g, '.')}
                                     </td>
                                     <td>
                                         {data.stockItemCategoryResponse.currentQty} {data.stockItemCategoryResponse.metricType}

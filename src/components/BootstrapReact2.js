@@ -60,10 +60,8 @@ class BootstrapReact2 extends Component{
                 items = [...this.state.cartDetail]
                 item = {...items[i]}
                 item.quantity = item.quantity + 1;
-                console.log(item.quantity)
                 items[i] = item;
                 exist = true;
-                console.log(items)
             }
         }
         this.setState({
@@ -80,11 +78,9 @@ class BootstrapReact2 extends Component{
     }
     addItem(props){
         let index = 0;
-        console.log(`increase: ${props.stockItemTitle}`)
         for(let i = 0; i<=this.state.cartDetail.length-1; i++){
             if(this.state.cartDetail[i].stockItemTitle === props.stockItemTitle){
                 index = i;
-                console.log(`index-increased: ${this.state.cartDetail[i].stockItemTitle}`)
             }
         }
         let temp = [...this.state.cartDetail];
@@ -95,13 +91,11 @@ class BootstrapReact2 extends Component{
     }
     decreaseItem(props){
         let index = 0;
-        console.log(`decrease ${props.stockItemTitle}`)
         for(let i = 0; i<=this.state.cartDetail.length-1; i++){
             if(this.state.cartDetail[i].stockItemTitle === props.stockItemTitle){
                 index = i;
             }
         }
-        console.log(`index-decreased: ${this.state.cartDetail[index].stockItemTitle}`)
         let temp = [...this.state.cartDetail];
         temp[index].quantity = temp[index].quantity-1;
         this.setState({

@@ -34,7 +34,7 @@ class BootstrapReact2CartDetail extends Component{
                                     <td>{filteredItem.stockItemTitle}</td>
                                     <td>Rp. {filteredItem.sellPrice}</td>
                                     <td>{filteredItem.quantity}</td>
-                                    <td>Rp. {filteredItem.sellPrice*filteredItem.quantity}</td>
+                                    <td>Rp. {(filteredItem.sellPrice*filteredItem.quantity).toString().replace(/\B(?=(\d{3})+(?!\d))/g, '.')}</td>
                                     <td>
                                     <div className="btn-group" role="group" aria-label="Basic example">
                                         <button type="button" className="btn btn-success" onClick={()=>this.props.addItem(filteredItem)}>Tambah</button>
